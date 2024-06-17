@@ -23,7 +23,11 @@
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
  </p>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **shihjen/shihjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
