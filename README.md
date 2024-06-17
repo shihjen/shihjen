@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Shih Jen, a Data Science enthusiast from Malaysia working in Singapore.
 
 <!--
 **shihjen/shihjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
