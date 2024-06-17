@@ -1,6 +1,11 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
 ## Hi there 👋, I'm Shih Jen, a Data Science enthusiast from Malaysia working in Singapore.
 
 ### Skills:
+<i class="fab fa-python" style="color:#3776AB; font-size: 40px;"></i>
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
