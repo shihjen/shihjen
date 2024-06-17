@@ -12,7 +12,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/vba.png" alt="css" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
+<p align="left"> <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
 
 
 
