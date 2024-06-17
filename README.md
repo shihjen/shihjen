@@ -11,7 +11,8 @@
 ![CSS](https://img.shields.io/badge/CSS-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-
+<h3 align="left">Languages:</h3>
+<p align="left"> <img src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/vba.png" alt="css" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
 
 
 
