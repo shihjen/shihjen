@@ -1,5 +1,6 @@
 ![banner](profile_banner.jpg)
 
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I'm++Data+Analyst](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hi!+I%27m+Shih%20Jen%20=)))](https://git.io/typing-svg)
 
 ## Hi there 👋, I'm Shih Jen, a Data Science enthusiast from Malaysia working in Singapore.
 
