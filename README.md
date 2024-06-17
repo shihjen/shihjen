@@ -1,10 +1,10 @@
-
+![banner](profile_banner.jpg)
 
 
 ## Hi there 👋, I'm Shih Jen, a Data Science enthusiast from Malaysia working in Singapore.
 
 
-<h2 align="left">Tools:</h2>
+<h3 align="left">Tools:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
