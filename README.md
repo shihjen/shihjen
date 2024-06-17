@@ -5,6 +5,8 @@
 
 ### Skills:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
 
 
 <!--
