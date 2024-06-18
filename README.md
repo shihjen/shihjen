@@ -8,8 +8,8 @@
 
 - 📫 How to reach me: e1084875@u.nus.edu
 
-
-
+--- 
+## 
 ### :hammer_and_wrench: Language & Tools:
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg" alt="r" width="40" height="40"/>
@@ -27,7 +27,7 @@
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
  </p>
 
-
+## 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shihjen&theme=dark&background=000000)](https://git.io/streak-stats)
