@@ -3,13 +3,13 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hi!+I%27m+Shih%20Jen%20.%20.%20.)](https://git.io/typing-svg)
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=a%20Data%20Science%20Enthusiast)](https://git.io/typing-svg)
 
-***
+
 ### :man_technologist: About Me :
 
 - 📫 How to reach me: e1084875@u.nus.edu
 
 
-***
+
 ### :hammer_and_wrench: Language & Tools:
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg" alt="r" width="40" height="40"/>
@@ -27,7 +27,7 @@
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
  </p>
 
-***
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shihjen&theme=dark&background=000000)](https://git.io/streak-stats)
