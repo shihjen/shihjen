@@ -5,6 +5,9 @@
 
 
 ### :man_technologist: About Me :
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/tan-shih-jen-99546b306)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1DA1F2?style=flat-square&logo=Kaggle&logoColor=white)]([https://www.kaggle.com/ashishkumarak](https://www.kaggle.com/tanshihjen))
+[![Email Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:e1094875@u.nus.edu)
 
 - 📫 How to reach me: e1084875@u.nus.edu
 
@@ -29,6 +32,12 @@
 
 ## 
 ### :fire: My Stats :
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=shihjen&label=Profile%20Visits&color=12&icon=0&pretty=true"/>
+</a>
+
+#####
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shihjen&theme=dark&background=000000)](https://git.io/streak-stats)
 #### 
