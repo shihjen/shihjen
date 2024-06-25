@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me :
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/tan-shih-jen-99546b306)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1DA1F2?style=flat-square&logo=Kaggle&logoColor=white)]([https://www.kaggle.com/ashishkumarak](https://www.kaggle.com/tanshihjen))
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1DA1F2?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/tanshihjen)
 [![Email Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:e1094875@u.nus.edu)
 
 - 📫 How to reach me: e1084875@u.nus.edu
@@ -24,6 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height=40"/>
