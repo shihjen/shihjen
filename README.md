@@ -40,7 +40,7 @@
 
 #####
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shihjen&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shihjen&theme=dark&background=000000&card_width=850&fire=1E90FF&ring=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF)](https://git.io/streak-stats)
 #### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihjen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
