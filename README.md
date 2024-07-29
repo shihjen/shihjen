@@ -4,7 +4,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hi!+I%27m+Shih%20Jen%20.%20.%20.)](https://git.io/typing-svg)
 -->
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=a%20Data%20Science%20Enthusiast%20.%20.%20.)](https://git.io/typing-svg)
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=enjoy%20creating%20Web%20Applications😄)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=enjoy%20exploring%20cool%20stuff%20😎)](https://git.io/typing-svg)
 
 ### :man_technologist: About Me :
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/tan-shih-jen-99546b306)
