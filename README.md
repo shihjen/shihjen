@@ -37,18 +37,22 @@
  </p>
 
 ## 
+<!--
 ### :fire: My Stats :
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=shihjen&label=Profile%20Visits&color=12&icon=0&pretty=true"/>
 </a>
+-->
 
 #####
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shihjen&theme=dark&background=000000&card_width=850&fire=1E90FF&ring=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF)](https://git.io/streak-stats)
 #### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihjen&title_color=1E90FF&theme=dark&background=000000&card_width=850&size_weight=0.5&count_weight=0.5&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihjen&title_color=1E90FF&theme=dark&background=000000&card_width=850&size_weight=0.5&count_weight=0.5&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
