@@ -11,7 +11,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1DA1F2?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/tanshihjen)
 [![Email Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:e1094875@u.nus.edu)
 
-- 📫 How to reach me: e1084875@u.nus.edu
+📫 e1084875@u.nus.edu
 
 --- 
 ## 
